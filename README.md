@@ -16,7 +16,6 @@ Transforming raw Brazilian e-commerce data into actionable business insights thr
 
 </p>
 
-**⭐ If you like this project, consider giving it a star!**
 
 </div>
 
@@ -65,7 +64,6 @@ The dashboard leverages **Power Query**, **Data Modeling**, **DAX**, and **inter
 ## 🏠 Landing Page
 
 ![Landing Page](screenshots/Landing%20Page.png)
-<img width="400" height="223" alt="Landing Page" src="https://github.com/user-attachments/assets/2189b2e1-720a-4373-8c88-e8b655d9ca25" />
 
 ---
 
@@ -155,7 +153,9 @@ This Power BI dashboard consolidates data from multiple sources into an interact
 
 ## 🏠 Landing Page
 
-![Landing Page](screenshots/Landing%20Page.png)
+
+<img width="400" height="223" alt="Landing Page" src="https://github.com/user-attachments/assets/050c5c0c-c302-4814-85b4-10810df8f8f6" />
+
 
 ### Features
 
@@ -167,7 +167,8 @@ This Power BI dashboard consolidates data from multiple sources into an interact
 
 ## 📊 Executive Dashboard
 
-![Executive Dashboard](screenshots/Executive%20Dashboard.png)
+
+<img width="420" height="226" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/40424f0f-ad5f-4004-9600-d3943e0052e1" />
 
 ### Visuals Included
 
@@ -180,7 +181,8 @@ This Power BI dashboard consolidates data from multiple sources into an interact
 
 ## 📦 Product Analysis
 
-![Product Analysis](screenshots/Product%20Analysis.png)
+
+<img width="422" height="224" alt="Product Analysis" src="https://github.com/user-attachments/assets/eb44483b-493a-49e4-bd9b-d06bf48c5ec3" />
 
 ### Visuals Included
 
@@ -195,9 +197,9 @@ This Power BI dashboard consolidates data from multiple sources into an interact
 
 ## 🌍 Regional Analysis
 
-![Regional Analysis](screenshots/Regional%20Analysis.png)
 
-### Visuals Included
+<img width="422" height="226" alt="Regional Analysis" src="https://github.com/user-attachments/assets/879f95b8-27ee-410e-9d9f-9f35fa5f275a" />
+
 
 - Revenue by State
 - Geographic Map
@@ -209,7 +211,10 @@ This Power BI dashboard consolidates data from multiple sources into an interact
 
 ## 🚚 Delivery Analysis
 
-![Delivery Analysis](screenshots/Delivery%20Analysis.png)
+<img width="422" height="225" alt="Delivery Analysis" src="https://github.com/user-attachments/assets/1e4f8672-c5d8-492c-94ab-77a7a7eab70e" />
+
+
+
 
 ### Visuals Included
 
@@ -222,8 +227,8 @@ This Power BI dashboard consolidates data from multiple sources into an interact
 ---
 
 ## 🌳 Revenue Decomposition
+<img width="421" height="223" alt="Revenue Decomposition" src="https://github.com/user-attachments/assets/793e8bff-9af8-4f48-af99-d19dd9b5c604" />
 
-![Revenue Decomposition](screenshots/Revenue%20Decomposition.png)
 
 ### Drill-down Hierarchy
 
@@ -402,7 +407,7 @@ Olist-Ecommerce-Analytics/
 
 🐙 GitHub: *Add your GitHub profile*
 
-📧 Email: *Add your email*
+📧 Email: *shwetavanarse28@gmail.com*
 
 ---
 
