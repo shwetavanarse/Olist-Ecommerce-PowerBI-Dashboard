@@ -65,6 +65,7 @@ The dashboard leverages **Power Query**, **Data Modeling**, **DAX**, and **inter
 ## 🏠 Landing Page
 
 ![Landing Page](screenshots/Landing%20Page.png)
+<img width="400" height="223" alt="Landing Page" src="https://github.com/user-attachments/assets/2189b2e1-720a-4373-8c88-e8b655d9ca25" />
 
 ---
 
