@@ -248,7 +248,9 @@ Product Revenue
 
 ### Product Tooltip
 
-![Product Tooltip](screenshots/Product%20Tooltip.png)
+
+<img width="422" height="225" alt="Product Tooltip" src="https://github.com/user-attachments/assets/00cbe292-a737-44fb-b415-a7011695d6c0" />
+
 
 Displays additional product metrics when hovering over visuals.
 
@@ -256,7 +258,8 @@ Displays additional product metrics when hovering over visuals.
 
 ### Region Tooltip
 
-![Region Tooltip](screenshots/Region%20Tooltip.png)
+
+<img width="420" height="223" alt="Region Tooltip" src="https://github.com/user-attachments/assets/025e90eb-569d-4d87-8d77-02e1b7d294e6" />
 
 Provides quick regional KPI summaries without leaving the current page.
 
