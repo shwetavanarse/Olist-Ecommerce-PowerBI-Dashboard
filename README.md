@@ -409,9 +409,9 @@ Olist-Ecommerce-Analytics/
 
 **Shweta Vanarse**
 
-💼 LinkedIn: *Add your profile*
+💼 LinkedIn: *https://www.linkedin.com/in/shweta-vanarse-aa82313b1/*
 
-🐙 GitHub: *Add your GitHub profile*
+🐙 GitHub: *https://github.com/shwetavanarse*
 
 📧 Email: *shwetavanarse28@gmail.com*
 
